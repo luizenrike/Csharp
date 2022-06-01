@@ -1,0 +1,11 @@
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\bin\Debug\StringApp1.exe.config
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\bin\Debug\StringApp1.exe
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\bin\Debug\StringApp1.pdb
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\obj\Debug\StringApp1.csproj.AssemblyReference.cache
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\obj\Debug\StringApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\obj\Debug\StringApp1.Properties.Resources.resources
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\obj\Debug\StringApp1.csproj.GenerateResource.cache
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\obj\Debug\StringApp1.csproj.CoreCompileInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\obj\Debug\StringApp1.exe
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\obj\Debug\StringApp1.pdb
+C:\Users\luizh\OneDrive\Documentos\Github\C#\StringApp1\obj\Debug\StringApp1.Login.resources
